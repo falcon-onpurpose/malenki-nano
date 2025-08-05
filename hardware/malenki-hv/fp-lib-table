@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "malenki-nano")(type "KiCad")(uri "${KIPRJMOD}/malenki-nano.pretty")(options "")(descr ""))
+  (lib (name "Custom Made")(type "KiCad")(uri "/Users/falcon/Documents/KiCad/9.0/footprints/Custom Made.pretty")(options "")(descr ""))
 )
