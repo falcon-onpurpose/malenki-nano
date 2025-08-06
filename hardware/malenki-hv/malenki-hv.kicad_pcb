@@ -711,6 +711,7 @@
 		(property "Reference" "C14"
 			(at 0 -1.16 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "bda30c5a-34a2-48c4-b0d6-332bec3fcf3d")
 			(effects
 				(font
@@ -1987,6 +1988,7 @@
 		(property "Reference" "C15"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "eb114ece-0099-41ea-95aa-01e6fbebb8ea")
 			(effects
 				(font
@@ -2377,6 +2379,7 @@
 		(property "Reference" "L3"
 			(at 0 -1.17 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e16c8d1b-2bc4-4282-af6f-88c85db19e9f")
 			(effects
 				(font
@@ -2865,6 +2868,7 @@
 		(property "Reference" "C4"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d41409a2-41f7-4983-9c97-d944030d342e")
 			(effects
 				(font
@@ -3124,6 +3128,7 @@
 		(property "Reference" "C17"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3fb081ac-3a6f-43b3-ab7a-f402f8e23cbd")
 			(effects
 				(font
@@ -3371,6 +3376,7 @@
 		(property "Reference" "L2"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "aa0760d0-4333-468b-b078-ba70cbc11635")
 			(effects
 				(font
@@ -4370,6 +4376,7 @@
 		(property "Reference" "C11"
 			(at 0 -1.16 270)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "00590f83-a0eb-476c-9af4-02cdd8f28ea2")
 			(effects
 				(font
@@ -4617,6 +4624,7 @@
 		(property "Reference" "C16"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7c8553fa-c881-4fd1-86a8-baee07ecb7b4")
 			(effects
 				(font
@@ -5124,6 +5132,7 @@
 		(property "Reference" "L1"
 			(at 0 -1.17 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8127da44-34f2-449d-93c9-b93e176bc19b")
 			(effects
 				(font
@@ -5621,6 +5630,7 @@
 		(property "Reference" "C22"
 			(at 0 -1.16 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "55f60985-035a-44bb-82c0-2249212befe9")
 			(effects
 				(font
@@ -5868,6 +5878,7 @@
 		(property "Reference" "C13"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c68eab28-d759-4230-97ef-50a1eea9a084")
 			(effects
 				(font
@@ -8015,6 +8026,7 @@
 		(property "Reference" "C12"
 			(at 0 -1.16 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "11151c91-61ca-476b-97d2-4891253ec858")
 			(effects
 				(font
@@ -8262,6 +8274,7 @@
 		(property "Reference" "C23"
 			(at 0 -1.16 270)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c9228a67-f545-494e-9b80-627d92d892a6")
 			(effects
 				(font
@@ -9267,6 +9280,7 @@
 		(property "Reference" "C10"
 			(at 0 -1.16 270)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "64fa6eca-2d1f-4a3d-bd05-5f1ca7a3daa2")
 			(effects
 				(font
@@ -9514,6 +9528,7 @@
 		(property "Reference" "C18"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c3b6b385-265b-407c-8125-b4000b4b7005")
 			(effects
 				(font
@@ -10094,6 +10109,7 @@
 		(property "Reference" "C9"
 			(at 0 -1.16 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "0f66bd59-a42b-4f76-b8e6-09d800a0b770")
 			(effects
 				(font
@@ -11129,6 +11145,7 @@
 		(property "Reference" "C19"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ab3d32ee-6957-41cb-b26c-bb43ea5323a8")
 			(effects
 				(font
@@ -13339,7 +13356,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "be75178e-75a4-44a9-a4eb-91e81e749767")
 		)
 		(pad "21" smd rect
 			(at -0.533333 0 270)
@@ -13349,7 +13366,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "6d61a10b-0501-4c1f-a0a9-e767bfcae9ee")
 		)
 		(pad "21" thru_hole circle
 			(at -0.533333 0.533333 270)
@@ -13360,7 +13377,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "58d7c996-679e-4488-827e-68a30d3b8759")
 		)
 		(pad "21" smd rect
 			(at -0.533333 0.533333 270)
@@ -13370,7 +13387,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "7b8e1242-d231-4744-be8f-8f39a1e5d833")
 		)
 		(pad "21" smd rect
 			(at 0 -0.533333 270)
@@ -13380,7 +13397,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "17ae8604-f356-4c84-bb16-f29c6171513e")
 		)
 		(pad "21" thru_hole circle
 			(at 0 0 270)
@@ -13391,7 +13408,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "770483df-259e-4d24-9c24-46be62ee3272")
 		)
 		(pad "21" smd rect
 			(at 0 0 270)
@@ -13401,7 +13418,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "f0e8047a-2aa7-4cf9-b2c5-f4ba64bff7b6")
 		)
 		(pad "21" smd rect
 			(at 0 0.533333 270)
@@ -13411,7 +13428,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "ea93db31-d8c9-41f7-aedc-3d68ff4f5a0f")
 		)
 		(pad "21" thru_hole circle
 			(at 0.533333 -0.533333 270)
@@ -13422,7 +13439,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "096e205b-4043-4333-991a-8e7cad391d4a")
 		)
 		(pad "21" smd rect
 			(at 0.533333 -0.533333 270)
@@ -13432,7 +13449,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "955ea943-ac34-4b79-87f2-8018f60cda95")
 		)
 		(pad "21" smd rect
 			(at 0.533333 0 270)
@@ -13442,7 +13459,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "30e47bdd-c71f-4b2a-9074-1684689ceb45")
 		)
 		(pad "21" thru_hole circle
 			(at 0.533333 0.533333 270)
@@ -13453,7 +13470,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "802a1980-ec20-4aa3-b589-6b7069c17e2f")
 		)
 		(pad "21" smd rect
 			(at 0.533333 0.533333 270)
@@ -13463,7 +13480,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_paste_margin -0.75)
-			(uuid "f1fd188d-b2e5-416b-a366-d8b48bc86990")
+			(uuid "1a75f9ff-8dd8-4e13-aefb-b52339631818")
 		)
 		(embedded_fonts no)
 		(model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-20-1EP_4x4mm_P0.5mm.step"
@@ -14084,6 +14101,18 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "Designed By:\nMark Robson"
+		(at 97.3 56.9 0)
+		(layer "B.SilkS")
+		(uuid "196c4e64-d86f-4fdd-bcd2-28984f628734")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
 	(gr_text "-"
 		(at 104.5 81.1 0)
 		(layer "B.SilkS")
@@ -14097,7 +14126,7 @@
 		)
 	)
 	(gr_text "Thank You\nFor Supporting\nNoosa Robotics"
-		(at 97.5 58.5 0)
+		(at 94.3 65.4 270)
 		(layer "B.SilkS")
 		(uuid "24cc5d74-ef52-4810-9f22-e438d507e3e9")
 		(effects
