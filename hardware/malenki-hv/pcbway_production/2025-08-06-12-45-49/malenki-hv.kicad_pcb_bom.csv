@@ -1,0 +1,23 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,LCSC,Manufacturer,Alternate LCSC PN
+"C1, C2, C3, C5, C6",5,10uF 25V,C_0603_1608Metric,,CL10A106MA8NRNC,,smt,Unpolarized Capacitor,C96446,Samsung,
+C10,1,22pF,C_0402_1005Metric,,0402CG220J500NT,,smt,Unpolarized Capacitor,C1555,FH,
+"C11, C14, C15",3,10pF,C_0402_1005Metric,,CL05C100JB5NNNC,,smt,Unpolarized Capacitor,C32949,Samsung,
+"C12, C13, C16, C17, C22, C23, C4",7,100nF,C_0402_1005Metric,,CL05B104KB54PNC,,smt,Unpolarized Capacitor,C307331,Samsung,C14663
+C18,1,560pF,C_0402_1005Metric,,0402B561K500NT,,smt,Unpolarized Capacitor,C1539,FH,
+C19,1,10nF,C_0402_1005Metric,,CL05B103KB5NNNC,,smt,Unpolarized Capacitor,C15195,Samsung,
+"C20, C21",2,2.2uF,C_0603_1608Metric,,CL10A225KO8NNNC,,smt,Unpolarized Capacitor,C23630,Samsung,
+C9,1,1pF,C_0402_1005Metric,,0402CG1R0C500NT,,smt,Unpolarized Capacitor,C1550,FH,
+D1,1,LED Blue,LED_0603_1608Metric,,19-217/BHC-ZL1M2RY/3T,,smt,Light emitting diode,C72041,Everlight,C2689219
+D2,1,LED Red,LED_0603_1608Metric,,KT-0603R,,smt,Light emitting diode,C2286,Hubei KENTO,
+L1,1,2.7 nH,L_0402_1005Metric,,MLK1005S2N7ST000,,smt,Inductor,C76791,TDK,
+"L2, L3",2,4.7nH,L_0402_1005Metric,,LQW15AN4N7D10D,,smt,Inductor,C341688,Murata,C1030
+"R1, R5, R6",3,470Ω,R_0402_1005Metric,,0402WGF4700TCE,,smt,Resistor,C25117,Uniroyal,
+R2,1,1kΩ,R_0402_1005Metric,,0402WGF1001TCE,,smt,Resistor,C11702,Uniroyal,
+R25,1,200Ω,R_0402_1005Metric,,0402WGF2000TCE,,smt,Resistor,C25087,Uniroyal,
+R3,1,100kΩ,R_0402_1005Metric,,0402WGF1003TCE,,smt,Resistor,C25741,Uniroyal,
+"R4, R7, R8",3,10kΩ,R_0402_1005Metric,,0402WGF1002TCE,,smt,Resistor,C25744,Uniroyal,
+U1,1,A7105,a7105-QFN-20,,A71X05AQFI/Q,,smt,2.4G Wireless Transceiver,C126376,AMICCOM,
+U2,1,"300mA Fixed 3.3V Positive 24V SOT-89 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",SOT-89-3,,HT7333-1-MS,,smt,"100mA Low Dropout Voltage Regulator, Fixed Output, SOT89",C7434186,MSKSEMI,C151625
+U3,1,ATTiny1616-MNR,VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,,ATTINY1616-MNR,,smt,"20MHz, 16kB Flash, 2kB SRAM, 256B EEPROM, VQFN-20",C507118,MICROCHIP,
+"U4, U5, U6",3,DRV8231DSGR,WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm,,DRV8231DSGR,,smt,H-Bridge driver,C3681197,TI,
+Y1,1,16mhz Seiko Epson Q24FA20H0051200,Crystal_SMD_2520-4Pin_2.5x2.0mm,,Q24FA20H00512,,smt,"Four pin crystal, GND on pins 2 and 4",C255947,Epson,

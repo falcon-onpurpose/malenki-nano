@@ -1,7 +1,7 @@
 #!/bin/bash
 
 MCU=attiny1616
-PYMCUPROG_OPTS="-d $MCU -t uart -u /dev/ttyUSB*"  
+PYMCUPROG_OPTS="-d $MCU -t uart -u /dev/tty.usbmodem201912341"
 file=hv.bin
 
 set -e
